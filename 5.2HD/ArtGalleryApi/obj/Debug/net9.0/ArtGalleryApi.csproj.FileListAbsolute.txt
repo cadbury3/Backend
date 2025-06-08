@@ -1,0 +1,7 @@
+D:\Backend pro\5.2HD\ArtGalleryApi\obj\Debug\net9.0\ArtGalleryApi.csproj.AssemblyReference.cache
+D:\Backend pro\5.2HD\ArtGalleryApi\obj\Debug\net9.0\ArtGalleryApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend pro\5.2HD\ArtGalleryApi\obj\Debug\net9.0\ArtGalleryApi.AssemblyInfoInputs.cache
+D:\Backend pro\5.2HD\ArtGalleryApi\obj\Debug\net9.0\ArtGalleryApi.AssemblyInfo.cs
+D:\Backend pro\5.2HD\ArtGalleryApi\obj\Debug\net9.0\ArtGalleryApi.csproj.CoreCompileInputs.cache
+D:\Backend pro\5.2HD\ArtGalleryApi\obj\Debug\net9.0\ArtGalleryApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Backend pro\5.2HD\ArtGalleryApi\obj\Debug\net9.0\ArtGalleryApi.MvcApplicationPartsAssemblyInfo.cache

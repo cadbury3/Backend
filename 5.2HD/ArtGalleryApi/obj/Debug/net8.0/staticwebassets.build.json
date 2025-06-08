@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "MKUMrMtXWAfeb1hP2xnIKsCCZDvfm6mhLgtGWzQm9Jc=",
+  "Source": "ArtGalleryApi",
+  "BasePath": "_content/ArtGalleryApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
